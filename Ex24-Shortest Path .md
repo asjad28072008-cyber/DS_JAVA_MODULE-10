@@ -1,5 +1,5 @@
 # Ex24 Shortest Path and Reachability in a Heritage Town using BFS
-## DATE:
+## DATE: 12.09.2026
 ## AIM:
 To design and implement a java program that, given a map of attractions in a heritage town connected by walking paths, recommends:
 The shortest number of paths (minimum hops) from a starting attraction to a target attraction.
