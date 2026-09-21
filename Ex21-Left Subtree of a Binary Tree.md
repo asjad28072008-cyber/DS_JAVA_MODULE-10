@@ -106,7 +106,9 @@ public class Node {
 
 ## Output:
 
-<img width="788" height="442" alt="image" src="https://github.com/user-attachments/assets/3abe0f34-3ed9-494d-a612-5f312787ca2e" />
+
+<img width="385" height="185" alt="image" src="https://github.com/user-attachments/assets/e9a944e4-9c88-44d9-8fa7-63b9cab074a1" />
+
 
 
 ## Result:
