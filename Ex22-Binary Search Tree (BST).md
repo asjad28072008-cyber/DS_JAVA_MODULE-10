@@ -115,10 +115,7 @@ public class Main {
 ## Output:
 
 
-<img width="675" height="440" alt="image" src="https://github.com/user-attachments/assets/9b816f8e-3e47-4549-988b-886b5e41b52d" />
-
-
-<img width="536" height="457" alt="image" src="https://github.com/user-attachments/assets/b745116a-4983-4b50-ad8c-b137c70c366e" />
+<img width="537" height="220" alt="image" src="https://github.com/user-attachments/assets/86628e72-22c6-4d88-b5a7-aaf7beba3a3c" />
 
 
 
