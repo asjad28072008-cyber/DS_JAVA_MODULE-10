@@ -124,7 +124,8 @@ public class EVShorterRouteUserInput {
 
 ## Output:
 
-<img width="907" height="615" alt="image" src="https://github.com/user-attachments/assets/02bd6a26-e082-4888-87e1-ad53116db74f" />
+<img width="467" height="393" alt="image" src="https://github.com/user-attachments/assets/1cc7c93a-65dd-453c-8197-6f4c87f3ed2f" />
+
 
 
 ## Result:
