@@ -101,7 +101,8 @@ public class CityMapBFS {
 
 ## Output:
 
-<img width="892" height="482" alt="image" src="https://github.com/user-attachments/assets/d434edf8-fcc1-42f3-9057-62d4ae2b0208" />
+
+<img width="475" height="293" alt="image" src="https://github.com/user-attachments/assets/50ec33d3-4e16-4073-a4ff-f8cd9122ee44" />
 
 
 ## Result:
