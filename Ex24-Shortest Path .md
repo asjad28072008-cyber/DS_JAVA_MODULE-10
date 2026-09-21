@@ -128,7 +128,8 @@ public class HeritageTownBFS {
 
 ## Output:
 
-<img width="757" height="563" alt="image" src="https://github.com/user-attachments/assets/6847540f-804c-4f7a-81a0-6837c2caf537" />
+<img width="853" height="278" alt="image" src="https://github.com/user-attachments/assets/f20bf03b-e24a-4aaa-a370-075452a66e83" />
+
 
 
 ## Result:
